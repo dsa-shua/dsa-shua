@@ -11,6 +11,8 @@
 
 - Studying [***Electrical and Electronics Engineering***]
 
+- Profile From: https://github.com/elliottophellia/elliottophellia/tree/main
+
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
