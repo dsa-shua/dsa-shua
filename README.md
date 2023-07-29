@@ -8,7 +8,8 @@
 
 ---  
 
-<img src="./img/Profile-elaina.png" width="300" align="right" />
+<img class="image-with-shadow" src="./img/kokomi-profile.gif" alt="Image with Shadow" width="200" align="right"/>
+
 
 ### About Me
 - Name: 임효진 | Im Hyojin
@@ -19,14 +20,17 @@
 
 - Current Work: Intern at [ASO LAB](https://sites.google.com/view/asolabysu/home)
 <br/>
-<br/>
-<br/>
-<br/>
+
+
 
 ---
 
 
 ### Some Projects
+
+<p align="center">
+<img src="./img/kokomi-trailer.gif" alt="Image" width="500" />  
+</p>  
 
 - [FPGA Based Arcade Game](https://github.com/dsa-shua/kimochi-penguin)
 
@@ -36,12 +40,14 @@
 
 ---
 
-<!-- 
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
-<br/>
-<img src="./img/Repo-elaina.png" width="500" />
-<br/>
+### Projects to Do (@ASO LAB)
 
-<img src="./img/banner-elainaa.png" width="500" /><br/>
--->
+<img src="./img/kokomi-think.gif" alt="Image" align="right" width="300"/> 
+
+- Chipyard SoC Chips Generation
+
+- RISCV Hwacha + Gemmini Custom Accelerators
+
+
+
 </div>
