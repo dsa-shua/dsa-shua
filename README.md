@@ -1,13 +1,15 @@
 <div>
-<!-- <img src="./img/Profile-elaina.png" width="300" align="right" />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
-<br/>
-<br/> -->
-  
-<img src="./img/kokomi-banner.gif" width="500" align="center" />
+
+<h1 align="center"> Someone's Github </h1>
+<p align="center">
+<img src="./img/kokomi-banner.gif" alt="Image" />  
+</p>  
+
 
 ---  
+
+<img src="./img/Profile-elaina.png" width="300" align="right" />
+
 ### About Me
 - Name: 임효진 | Im Hyojin
 
@@ -16,7 +18,13 @@
 - Studying [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
 
 - Current Work: Intern at [ASO LAB](https://sites.google.com/view/asolabysu/home)
+<br/>
+<br/>
+<br/>
+<br/>
+
 ---
+
 
 ### Some Projects
 
