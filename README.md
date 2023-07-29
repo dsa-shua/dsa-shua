@@ -4,7 +4,10 @@
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/> -->
+  
+<img src="./img/kokomi-banner.gif" width="500" align="center" />
 
+---  
 ### About Me
 - Name: 임효진 | Im Hyojin
 
