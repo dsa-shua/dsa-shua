@@ -12,7 +12,7 @@
 
 
 ### About Me
-- Name: 임효진 | Im Hyojin
+- Name: Joshua (임효진 | Hyojin Im)
 
 - Based: Seoul, South Korea
 
