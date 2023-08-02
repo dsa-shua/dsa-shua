@@ -1,14 +1,14 @@
 <div>
 
-<h1 align="center"> Someone's Github </h1>
+<h1 align="center"> Joshua's Github </h1>
 <p align="center">
-<img src="./img/kokomi-banner.gif" alt="Image" />  
+
 </p>  
 
 
 ---  
 
-<img class="image-with-shadow" src="./img/kokomi-profile.gif" alt="Image with Shadow" width="200" align="right"/>
+
 
 
 ### About Me
@@ -29,7 +29,7 @@
 ### Some Projects
 
 <p align="center">
-<img src="./img/kokomi-trailer.gif" alt="Image" width="500" />  
+
 </p>  
 
 - [FPGA Based Arcade Game](https://github.com/dsa-shua/kimochi-penguin)
@@ -42,7 +42,7 @@
 
 ### Projects to Do (@ASO LAB)
 
-<img src="./img/kokomi-think.gif" alt="Image" align="right" width="300"/> 
+
 
 
 - Chipyard SoC Chips Generation
