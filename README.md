@@ -52,7 +52,7 @@
 ### Current Researches
 - Sept 2023 (starting) : Grid Forming Control for Grids with High Penetration of Renewables
 
-###  Personal Projects
+###  Upcoming Personal Projects
 - FPGA BASED Systolic Arrays (Planned for 2023-Winter)
   - Output Stationary, Weight Stationary Implementations
   - 16x16 Systolic Array
