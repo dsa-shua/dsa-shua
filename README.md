@@ -17,6 +17,8 @@
 - Based: Seoul, South Korea
 
 - Studying [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
+  - Specializing in VLSI-Computer and Electrical Power Engineering
+
 
 - Current Work: Intern at [ASO LAB](https://sites.google.com/view/asolabysu/home)
 <br/>
@@ -42,13 +44,18 @@
 
 ### Projects to Do (@ASO LAB)
 
-
-
-
 - Chipyard SoC Chips Generation
 
-- RISCV Hwacha + Gemmini Custom Accelerators
+- Gemmini Custom Accelerator Projects
+  - Sept 2023: Exploring MoCA Implementation in Gemmini
 
+### Current Researches
+- Sept 2023 (starting) : Grid Forming Control for Grids with High Penetration of Renewables
 
+###  Personal Projects
+- FPGA BASED Systolic Arrays (Planned for 2023-Winter)
+  - Output Stationary, Weight Stationary Implementations
+  - 16x16 Systolic Array
+  - Implemented in PL, interfaced by PS
 
 </div>
