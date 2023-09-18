@@ -20,7 +20,7 @@
   - Specializing in VLSI-Computer and Electrical Power Engineering
 
 
-- Current Work: Intern at [ASO LAB](https://sites.google.com/view/asolabysu/home)
+- Previous Work: Intern at [ASO LAB](https://sites.google.com/view/asolabysu/home) - 2023 Summer
 <br/>
 
 
@@ -41,13 +41,6 @@
 - [Ransom Ware :>](https://github.com/dsa-shua/omoshiroii-software)
 
 ---
-
-### Projects to Do (@ASO LAB)
-
-- Chipyard SoC Chips Generation
-
-- Gemmini Custom Accelerator Projects
-  - Sept 2023: Exploring MoCA Implementation in Gemmini
 
 ### Current Researches
 - Sept 2023 (starting) : Grid Forming Control for Grids with High Penetration of Renewables
