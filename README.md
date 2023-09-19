@@ -51,4 +51,22 @@
   - 16x16 Systolic Array
   - Implemented in PL, interfaced by PS
 
+
+### Boards
+- Raspberry Pi 4B
+- Arduino Uno
+- Arduino Nano
+- ESP32
+- Raspberry Pico
+- Xilinx PYNQ-Z2 FPGA Development Board
+
+### Software
+- Xilinx Vivado, Xilinx Vitis
+- LTSpice, PSPice, HSpice
+- Logism
+- MATLAB
+- PowerWorld
+- PSCAD
+
+
 </div>
