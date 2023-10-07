@@ -43,7 +43,8 @@
 ---
 
 ### Current Researches
-- Sept 2023 (starting) : Grid Forming Control for Grids with High Penetration of Renewables
+- [Capstone Project] Harmonizing Grid Frequency: Investigating the Optimal Mix of Grid-Forming and Grid-Following Inverters in High Penetration Grids 
+- [Communication Networks] Laser-Based DarkLight VLC Primitive
 
 ###  Upcoming Personal Projects
 - FPGA BASED Systolic Arrays (Planned for 2023-Winter)
