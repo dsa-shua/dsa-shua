@@ -60,6 +60,7 @@
 - ESP32
 - Raspberry Pico
 - Xilinx PYNQ-Z2 FPGA Development Board
+- [NEW] Tang Nano 9k RISCV FPGA Development Board
 
 ### Software
 - Xilinx Vivado, Xilinx Vitis
