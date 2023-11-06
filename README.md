@@ -64,11 +64,14 @@
 
 ### Software
 - Xilinx Vivado, Xilinx Vitis
+- MAGIC VLSI
+- Chipyard
 - LTSpice, PSPice, HSpice
 - Logism
 - MATLAB
 - PowerWorld
 - PSCAD
+  
 
 
 </div>
