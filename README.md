@@ -42,9 +42,9 @@
 
 ---
 
-### Current Researches
+### Researches
 - [Capstone Project] Harmonizing Grid Frequency: Investigating the Optimal Mix of Grid-Forming and Grid-Following Inverters in High Penetration Grids 
-- [Communication Networks] Laser-Based DarkLight VLC Primitive
+- [Communication Networks] Asynchronous VPPM VLC Algorithm
 
 ###  Upcoming Personal Projects
 - FPGA BASED Systolic Arrays (Planned for 2023-Winter)
