@@ -19,8 +19,6 @@
 - Studying [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
   - Specializing in VLSI-Computer and Electrical Power Engineering
 
-
-- Previous Work: Intern at [ASO LAB](https://sites.google.com/view/asolabysu/home) - 2023 Summer
 <br/>
 
 
