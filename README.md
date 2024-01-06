@@ -12,7 +12,7 @@
 
 
 ### About Me
-- Name: Joshua (임효진 | Hyojin Im)
+- Name: Joshua Gabriel Dela Rosa 
 
 - Based: Seoul, South Korea
 
