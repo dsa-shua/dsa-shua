@@ -18,12 +18,16 @@
 
 - Studying [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
   - Specializing in VLSI-Computer and Electrical Power Engineering
+  - Graduating this February 2024
 
 <br/>
 
 
 
 ---
+### Current Project (Personal Project)
+- [3x3 Systolic Array implemented on FPGA](https://github.com/dsa-shua/3x3-SystolicArray)
+
 
 
 ### Some Projects
