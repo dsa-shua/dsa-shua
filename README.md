@@ -26,7 +26,7 @@
 
 ---
 ### Current Project (Personal Project)
-- [3x3 Systolic Array implemented on FPGA](https://github.com/dsa-shua/3x3-SystolicArray)
+- [8x8 Systolic Array implemented on FPGA](https://github.com/dsa-shua/3x3-SystolicArray)
 
 
 
