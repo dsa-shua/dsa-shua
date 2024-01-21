@@ -20,6 +20,8 @@
   - Specializing in VLSI-Computer and Electrical Power Engineering
   - Graduating this February 2024
 
+- [Resume]
+
 <br/>
 
 
