@@ -28,7 +28,7 @@
 
 ---
 ### Current Project (Personal Project)
-- [8x8 Systolic Array implemented on FPGA](https://github.com/dsa-shua/3x3-SystolicArray)
+- [Systolic Array implemented on FPGA](https://github.com/dsa-shua/32x32-SystolicArray)
 
 
 
@@ -53,7 +53,7 @@
 ###  Upcoming Personal Projects
 - FPGA BASED Systolic Arrays (Planned for 2023-Winter)
   - Output Stationary, Weight Stationary Implementations
-  - 16x16 Systolic Array
+  - Scalable Systolic Array
   - Implemented in PL, interfaced by PS
 
 
