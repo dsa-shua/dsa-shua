@@ -28,7 +28,7 @@
 
 ---
 ### Current Project (Personal Project)
-- [Systolic Array implemented on FPGA](https://github.com/dsa-shua/32x32-SystolicArray)
+- [Systolic Array implemented on FPGA](https://github.com/dsa-shua/FPGA-SystolicArray)
 
 
 
