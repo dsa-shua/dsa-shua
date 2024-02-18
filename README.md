@@ -20,7 +20,7 @@
   - Specializing in VLSI-Computer and Electrical Power Engineering
   - Graduating this February 2024
 
-- [Resume](https://github.com/dsa-shua/dsa-shua/blob/main/Resume%202024-01.pdf)
+- [Resume](https://github.com/dsa-shua/dsa-shua/blob/main/Resume%202024-02.pdf)
 
 <br/>
 
