@@ -18,7 +18,9 @@
 
 - Studying [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
   - Specializing in VLSI-Computer and Electrical Power Engineering
-  - Graduating this February 2024
+  - Graduated Feb. 2024
+ 
+- Preparing for Graduate School @ Yonsei EEE (Fall 2024)
 
 - [Resume](https://github.com/dsa-shua/dsa-shua/blob/main/Resume%202024-02.pdf)
 
@@ -27,9 +29,6 @@
 
 
 ---
-### Current Project (Personal Project)
-- [Systolic Array implemented on FPGA](https://github.com/dsa-shua/FPGA-SystolicArray)
-
 
 
 ### Some Projects
@@ -37,6 +36,8 @@
 <p align="center">
 
 </p>  
+
+- [Systolic Array implemented on FPGA](https://github.com/dsa-shua/FPGA-SystolicArray)
 
 - [FPGA Based Arcade Game](https://github.com/dsa-shua/kimochi-penguin)
 
