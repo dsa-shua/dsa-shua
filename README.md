@@ -53,7 +53,7 @@
 - [Capstone Project] Harmonizing Grid Frequency: Investigating the Optimal Mix of Grid-Forming and Grid-Following Inverters in High Penetration Grids 
 - [Communication Networks] Asynchronous VPPM VLC Algorithm
 
-###  Upcoming Personal Projects
+###  Recent Personal Projects
 - FPGA BASED Systolic Arrays (Planned for 2023-Winter)
   - Output Stationary, Weight Stationary Implementations
   - Scalable Systolic Array
