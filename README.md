@@ -71,7 +71,8 @@
 
 ### Software
 - Xilinx Vivado, Xilinx Vitis
-- MAGIC VLSI
+- GPGPU-Sim
+- Accel-Sim
 - Chipyard
 - LTSpice, PSPice, HSpice
 - Logism
