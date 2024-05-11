@@ -16,9 +16,11 @@
 
 - Based: Seoul, South Korea
 
-- Studying [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
+- [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
   - Specializing in VLSI-Computer and Electrical Power Engineering
   - Graduated Feb. 2024
+
+- Currently Interning at [Computer Architecture and Systems Lab (CASL) @ Yonsei](https://casl.yonsei.ac.kr)
  
 - Preparing for Graduate School @ Yonsei EEE (Fall 2024)
 
