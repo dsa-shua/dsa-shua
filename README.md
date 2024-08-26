@@ -17,14 +17,17 @@
 - Based: Seoul, South Korea
 
 - [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
+  - Integrated Ms/PhD Degree '24   
   - Specializing in VLSI-Computer and Electrical Power Engineering
-  - Graduated Feb. 2024
+  - Receipient of Global Leaders Fellowship Scholarship
 
-- Currently Interning at [Computer Architecture and Systems Lab (CASL) @ Yonsei](https://casl.yonsei.ac.kr)
- 
-- Preparing for Graduate School @ Yonsei EEE (Fall 2024)
+- Currently Researching for [Computer Architecture and Systems Lab (CASL) @ Yonsei](https://casl.yonsei.ac.kr)
+  - Supervised by Professor William Jinho Song
+  - GPU Microarchitecture for Deep Learning and Quantum Commputing Team
 
 - [Resume](https://github.com/dsa-shua/dsa-shua/blob/main/Resume%202024-02.pdf)
+
+- Yonsei University BS EEE '19 
 
 <br/>
 
