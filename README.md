@@ -27,7 +27,11 @@
 
 - [Resume](https://github.com/dsa-shua/dsa-shua/blob/main/Resume%202024-02.pdf)
 
-- Yonsei University BS EEE '19 
+- Yonsei University BS EEE '19
+
+- Contact
+  - Graduate Email:   dsa.shua@yonsei.ac.kr
+  - Undergrad Email:  joshua04@yonsei.ac.kr
 
 <br/>
 
