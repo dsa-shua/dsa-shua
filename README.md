@@ -50,7 +50,7 @@
 
 - [FPGA Based Arcade Game](https://github.com/dsa-shua/kimochi-penguin)
 
-- [xv6-riscv OS Projects](https://github.com/dsa-shua/xv6-riscv-projects)
+- [xv6-riscv OS Projects] (Privated for OS Class)
 
 - [Ransom Ware :>](https://github.com/dsa-shua/omoshiroii-software)
 
