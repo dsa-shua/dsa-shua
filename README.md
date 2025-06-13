@@ -19,7 +19,7 @@
 - Based: Seoul, South Korea
 
 - [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
-  - Computer Architecture and Systems Lab (CAS) Research Assistant
+  - Computer Architecture and Systems Lab (CASL) Research Assistant
 - Yonsei University BS EEE '19
 
 - Contact
