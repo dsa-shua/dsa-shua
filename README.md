@@ -12,18 +12,7 @@
 
 ---  
 
- 
-### About Me
-- Name: Joshua Dela Rosa 
-
-- Based: Seoul, South Korea
-
-- [Electrical and Electronics Engineering @ Yonsei](https://ee.yonsei.ac.kr)
-  - Computer Architecture and Systems Lab (CASL) Research Assistant
-- Yonsei University BS EEE '19
-
-- Contact
-  - Graduate Email:   dsa.shua@yonsei.ac.kr
+I do computer architecture stuff: cpu, gpu, memory, interconnect.
 
 <br/>
 
